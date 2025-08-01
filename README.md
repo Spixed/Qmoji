@@ -12,9 +12,9 @@ It includes Super Qmoji and Normal Qmoji, with various file formats like `lottie
 
 ## Usage
 
-1. Fetch `mapping.json` from this repo. You can use `https://raw.githubusercontent.com/Spixed/Qmoji/refs/heads/main/mapping.json` or `https://cdn.jsdelivr.com/gh/Spixed/Qmoji@main/mapping.json` to fetch it.
+1. Fetch `mapping.json` from this repo. You can use `https://raw.githubusercontent.com/Spixed/Qmoji/refs/heads/main/mapping.json` or `https://cdn.jsdelivr.net/gh/Spixed/Qmoji@main/mapping.json` to fetch it.
 2. Use `mapping.json` to check the emojiId you want to use. (to see the structure of this json in detail, read the document below)
-3. Fetch the emoji files from this repo. Use `https://raw.githubusercontent.com/Spixed/Qmoji/refs/heads/main/res/{emojiId}/{thumb.png[|apng.png|(lottie.json)]}` or `https://cdn.jsdelivr.com/gh/Spixed/Qmoji@main/res/{emojiId}/{thumb.png[|apng.png|(lottie.json)]}` to fetch it.
+3. Fetch the emoji files from this repo. Use `https://raw.githubusercontent.com/Spixed/Qmoji/refs/heads/main/res/{emojiId}/{thumb.png[|apng.png|(lottie.json)]}` or `https://cdn.jsdelivr.net/gh/Spixed/Qmoji@main/res/{emojiId}/{thumb.png[|apng.png|(lottie.json)]}` to fetch it.
 
 > Of course you can fork it and change the url to your own repo. 
 > Or also you can clone it to your local machine to use it locally. 
